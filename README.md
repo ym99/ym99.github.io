@@ -9,7 +9,7 @@
     <li>
       <a href="/word-learning">word-learning</a> ... redirecting to it in 5 seconds ...
       <script>
-        window.setTimeout(() => window.location = '/word-learning')
+        window.setTimeout(() => window.location = '/word-learning', 5000);
       </script>
     </li>
     <li><a href="/snake">snake</a></li>
