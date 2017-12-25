@@ -22,6 +22,7 @@
     <li></li>
     <li><a href="/a-calc">a-calc</a></li>
     <li><a href="/a-snake">a-snake</a></li>
+    <li><a href="/a-tetris">a-tetris</a></li>
     <li><a href="/a-memories">a-memories</a></li>
   </ul>
 </body>  
